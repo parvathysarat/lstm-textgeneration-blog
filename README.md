@@ -10,4 +10,4 @@ I used Google's Colaboratory to run the model training & prediction.Make sure yo
 
 Original Tutorial on Machine Learning Mastery - [How to Develop a Word-Level Neural Language Model and Use it to Generate Text](https://machinelearningmastery.com/how-to-develop-a-word-level-neural-language-model-in-keras/)
 
-More about blog post extraction from WordPress : [Blog Post Extraction using wordpress_xmlrpc](https://github.com/parvathysarat/wordpress-blog-text-mining/tree/master/data%20extraction)
+Find code for blog post extraction from WordPress in my previous repository : [Blog Post Extraction using wordpress_xmlrpc](https://github.com/parvathysarat/wordpress-blog-text-mining/tree/master/data%20extraction)
